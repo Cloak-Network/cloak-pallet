@@ -28,10 +28,10 @@ sp-io = { version = "36.0.0", default-features = false }
 sp-runtime = { version = "37.0.0", default-features = false }
 sp-std = { version = "14.0.0", default-features = false }
 
-fhe-math = { path = "../../crates/fhe-math" }
-fhe-traits = { path = "../../crates/fhe-traits" }
-fhe-util = { path = "../../crates/fhe-util" }
-fhe = { path = "../../crates/fhe" }
+#fhe-math = { path = "../../crates/fhe-math" }
+#fhe-traits = { path = "../../crates/fhe-traits" }
+#fhe-util = { path = "../../crates/fhe-util" }
+#fhe = { path = "../../crates/fhe" }
 
 
 [dev-dependencies]
